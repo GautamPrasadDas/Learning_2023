@@ -32,7 +32,8 @@ Day-1/Level-1 :
      You can consider the below function prototype,
    - bit_operations(int num, int oper_type);
  
-Module-2/Day-2
+Module-1/Day-2
+
 Level-1:
 
 1. Write a program to print exponent part of double variable in hexadecimal and binary format.
