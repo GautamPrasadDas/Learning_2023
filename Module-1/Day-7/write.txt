@@ -1,0 +1,7 @@
+File Copy: Write a C program to copy a file using file operations
+Case Handler:
+Write a C program to copy a file by considering the user option to handle the text case
+-u, to change file content to Upper Case
+-l, to change file content to Lower Case
+-s, to change file content to Purely Upper Case
+if no options are passed then it should be a normal cvgd.
